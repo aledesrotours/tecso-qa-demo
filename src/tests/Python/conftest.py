@@ -4,9 +4,8 @@ import selenium.webdriver
 
 @pytest.fixture
 def browser():
-
-
     chrome_driver = selenium.webdriver.Chrome()
+    chrome_driver.maximize_window()
 
     chrome_driver.implicitly_wait('10')
 

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2935780c-a135-40ab-8484-8bdfa66d43d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/Python/HomePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Python/test_JoinTesco.py" afterDir="false" />
+    <list default="true" id="2935780c-a135-40ab-8484-8bdfa66d43d5" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Python/HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Python/JoinTesco.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Python/BaseTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Python/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Python/JoinTesco.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Python/JoinTesco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Python/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Python/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Python/test_JoinTesco.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Python/test_JoinTesco.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
     "last_opened_file_path": "C:/Users/Ale/OneDrive/Escritorio/tecso-qa-demo"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_JoinTesco.test_JoinTesco">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="tecso-qa-demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,6 +54,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_JoinTesco.test_JoinTesco" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="tecso-qa-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_JoinTesco.test_JoinTesco&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_JoinTesco.test_JoinTesco" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658264464948</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1658269923071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658269923071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
