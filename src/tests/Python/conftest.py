@@ -6,7 +6,6 @@ import selenium.webdriver
 def browser():
     chrome_driver = selenium.webdriver.Chrome()
     chrome_driver.maximize_window()
-
     chrome_driver.implicitly_wait('10')
 
     # Return the WebDriver instance for the setup
