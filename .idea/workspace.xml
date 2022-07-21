@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2935780c-a135-40ab-8484-8bdfa66d43d5" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/pages/Python/JoinTecso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Python/TecsoJobs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Python/test_JoinTecso.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Python/JoinTesco.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Python/JoinTesco.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Python/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Python/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Python/test_JoinTesco.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Python/test_JoinTesco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Python/HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Python/JobsJava.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Python/JoinTesco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Python/test_JoinTesco.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,20 +22,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CB89Iz0wLTrgH8VaIpXhdlyzmn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Ale/OneDrive/Escritorio/tecso-qa-demo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ale/OneDrive/Escritorio/tecso-qa-demo&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_JoinTesco.test_JoinTesco">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test_JoinTecso.test_JoinTecso_java">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="tecso-qa-demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +59,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for src.tests.Python.test_JoinTecso" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="tecso-qa-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.tests.Python.test_JoinTecso&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.tests.Python.test_JoinTecso" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="tecso-qa-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.tests.Python.test_JoinTecso&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.tests.Python.test_JoinTecso" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="tecso-qa-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.tests.Python.test_JoinTecso&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_JoinTecso.test_JoinTecso_java" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="tecso-qa-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_JoinTecso.test_JoinTecso_java&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_JoinTesco.test_JoinTesco" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="tecso-qa-demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,9 +129,41 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_TecsoJobs.test_jobs_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="tecso-qa-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_TecsoJobs.test_jobs_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_TecsoJobs.test_prueba" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="tecso-qa-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_TecsoJobs.test_prueba&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_JoinTesco.test_JoinTesco" />
+        <item itemvalue="Python tests.Python tests for test_JoinTecso.test_JoinTecso_java" />
+        <item itemvalue="Python tests.Python tests for test_TecsoJobs.test_jobs_page" />
+        <item itemvalue="Python tests.Python tests for src.tests.Python.test_JoinTecso" />
+        <item itemvalue="Python tests.Python tests for src.tests.Python.test_JoinTecso" />
+        <item itemvalue="Python tests.Python tests for test_TecsoJobs.test_prueba" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658269923071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1658332425549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658332425549</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
